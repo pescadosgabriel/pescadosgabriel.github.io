@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pescadosgabriel.github.io/sitemap.xml
